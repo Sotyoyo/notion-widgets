@@ -1,0 +1,26 @@
+{
+  "name": "notion-widgets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sotyoyo/notion-widgets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sotyoyo/notion-widgets/issues"
+  },
+  "homepage": "https://github.com/Sotyoyo/notion-widgets#readme",
+  "dependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "quasar": "^2.6.2",
+    "vue": "^3.2.31",
+    "webpack": "^5.70.0"
+  }
+}
